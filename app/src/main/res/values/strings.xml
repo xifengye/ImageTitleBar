@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageTitleBar</string>
+    <string name="my_behavior">com.moregood.imagetitlebar.MyBehavior</string>
+    <array name="tags">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+    </array>
+</resources>
